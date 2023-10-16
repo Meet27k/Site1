@@ -1,0 +1,143 @@
+.top {
+    
+    position: relative;
+    text-align: center;
+    margin-top: 200px;
+    text-align: center;
+    
+}
+body{
+    margin: 0;
+    text-align: center;
+    background-color:#000;
+}   
+
+
+h1{
+    margin-top: 0;
+    
+    font-family: 'Sacramento', cursive;
+}
+.cd{
+    position: absolute;
+    top: 8rem;
+    left: 10rem;
+    }
+.cd2{
+    position: absolute;
+    top:20rem;
+    left: 35rem;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left; 
+}
+.mt1{
+    position: relative;
+    bottom: 2rem;
+    margin-left : 1rem ;
+}
+.profile{
+   text-align: center;   
+}
+h1{
+  font-size:562.5% ; 
+  color: teal;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: teal;
+    font-weight: normal;
+    padding: 2% ;
+    text-align: center;
+}
+
+.com{
+    margin-right: 30px;
+    width: 25%;
+    float: left ;
+
+}
+.bottom-container{
+    background-color: teal;
+    position: relative;
+    top: 28px;
+    line-height: 2;
+    top: 50px;
+    height: 100px;
+}
+.footer-link{
+    color:  #BFEAF5;
+    position: relative;
+    top: 10px;
+    margin: 20px;
+    text-decoration: none;
+}
+a:hover{
+  color: #0A2647;
+}
+
+.copy{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: normal;
+    margin-top: 30px;
+    font-size: 0.75rem;
+    position: relative;
+    top: 10px;
+}
+.lines{
+    
+        border-style: dotted none none;
+        height: 0px;
+        width: 5%;
+        border-width: 5px;
+        margin: 120px auto;
+        border-color:black; 
+        color: #000;  
+}
+.btn {
+    margin: 5px;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3a0320;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #000;
+    
+    
+    background-image: -webkit-linear-gradient(top, #FCBAAD, #FCBAAD);
+    background-image: -moz-linear-gradient(top, #FCBAAD, #FCBAAD);
+    background-image: -ms-linear-gradient(top, #FCBAAD, #FCBAAD);
+    background-image: -o-linear-gradient(top, #FCBAAD, #FCBAAD);
+    background-image: linear-gradient(to bottom, #FCBAAD, #FCBAAD);
+    
+  }
+.par{
+    margin-bottom: 50px;
+}
+.contra{
+    margin-left: 420px;
+    height:150px;
+    width: 650px;
+    background-color: #9A4444;
+    transition: 2s;
+   
+
+}
+.contra:hover{
+    clip-path: circle(50%);
+    
+}
